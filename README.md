@@ -1,4 +1,4 @@
-# Exercise2--twist-2025
+# Exercise2-twist 2025
 Simulate a real estate agency website. 
 
 In this website you can find: <br/> 
